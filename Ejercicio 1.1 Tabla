@@ -1,0 +1,27 @@
+A)
+for a in range(9):
+    print(a)
+B)
+for b in range(3, 13):
+    print(b)
+C)
+for c in range(3, 13, 2):
+    print(c)
+D)
+for d in range(11, 4):
+    print(d)
+E)
+for e in range(11, 4, -1):
+    print(e)
+F)
+for f in range(2, 10, 2):
+    print(f)
+G)
+for g in range(2, 10, 3):
+    print(g)
+H)
+for h in range(10, 5, -1):
+    print(h)
+I)
+for i in range(3, -1, -1):
+    print(i)
